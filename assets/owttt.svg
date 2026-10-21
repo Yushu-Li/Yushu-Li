@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 236" role="img" aria-labelledby="title desc">
+<title id="title">OWTTT — ICCV 2023 · ORAL</title><desc id="desc">Open-world test-time training</desc>
+<rect width="570" height="236" rx="14" fill="#15231f"/>
+<path d="M0 235 H570" stroke="#dfc98e" stroke-width="4"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="28" y="39" fill="#dfc98e" font-size="14" font-weight="600" letter-spacing="2">ICCV 2023 · ORAL</text>
+<text x="26" y="101" fill="#f4f3e8" font-size="43" font-weight="700" letter-spacing="-1">OWTTT</text>
+<text x="28" y="193" fill="#b6c6bc" font-size="16">Open-world test-time training</text>
+</g><g fill="none" stroke="#bba775" stroke-opacity=".45"><circle cx="394" cy="88" r="37"/><circle cx="472" cy="111" r="28" stroke-dasharray="4 5"/><path d="M430 87 L444 98"/></g><g fill="#dfc98e"><circle cx="380" cy="77" r="5"/><circle cx="403" cy="73" r="4"/><circle cx="397" cy="99" r="5"/><circle cx="379" cy="102" r="4"/></g><g fill="#91b99e"><circle cx="464" cy="105" r="5"/><circle cx="483" cy="115" r="5"/><circle cx="499" cy="51" r="4"/><circle cx="519" cy="89" r="4"/></g></svg>

@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 570 236" role="img" aria-labelledby="title desc">
+<title id="title">ECALP — ICLR 2025</title><desc id="desc">Training-free vision-language adaptation</desc>
+<rect width="570" height="236" rx="14" fill="#15231f"/>
+<path d="M0 235 H570" stroke="#b4d8b6" stroke-width="4"/>
+<g font-family="-apple-system,BlinkMacSystemFont,Segoe UI,Arial,sans-serif">
+<text x="28" y="39" fill="#b4d8b6" font-size="14" font-weight="600" letter-spacing="2">ICLR 2025</text>
+<text x="26" y="101" fill="#f4f3e8" font-size="43" font-weight="700" letter-spacing="-1">ECALP</text>
+<text x="28" y="193" fill="#b6c6bc" font-size="16">Training-free vision-language adaptation</text>
+</g><g stroke="#8fbda4" stroke-opacity=".5" fill="none" stroke-width="1.4">
+<path d="M375 76 L418 45 L464 80 L432 125 L375 76 L374 126 L432 125 L464 80 L509 124 M418 45 L432 125 M374 126 L346 104"/>
+</g><g fill="#b4d8b6"><circle cx="375" cy="76" r="7"/><circle cx="418" cy="45" r="6"/><circle cx="464" cy="80" r="7"/></g><g fill="#6f9a81"><circle cx="432" cy="125" r="6"/><circle cx="374" cy="126" r="5"/><circle cx="509" cy="124" r="5"/><circle cx="346" cy="104" r="4"/></g></svg>
